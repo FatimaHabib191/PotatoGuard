@@ -1,0 +1,15 @@
+# Model & dataset
+saved_models/
+training/PlantVillage/
+__pycache__/
+*.pyc
+
+# Frontend
+node_modules/
+dist/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Env
+.env
