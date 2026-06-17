@@ -1,0 +1,1 @@
+Run training/model.ipynb to generate the model file (1.keras) in this folder.
