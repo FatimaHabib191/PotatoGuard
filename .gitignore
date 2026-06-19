@@ -1,5 +1,6 @@
 # Model & dataset
-saved_models/
+saved_models/*
+!saved_models/README.md
 training/PlantVillage/
 __pycache__/
 *.pyc
