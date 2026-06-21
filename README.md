@@ -28,6 +28,12 @@ cd PotatoGuard
 ```
 
 ### 2. Train the model
+Download the PlantVillage dataset.
+Keep only the following potato disease classes:
+Potato___Early_blight
+Potato___Late_blight
+Potato___Healthy
+Place the dataset inside the training folder.
 Run `training/model.ipynb` to generate `saved_models/1.keras`
 
 ### 3. Backend
